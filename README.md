@@ -1,7 +1,3 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -65,7 +61,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
+  <a href="https://smmo.vn" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a>
   <a href="https://facebook.com/trungquandev" target="blank">
